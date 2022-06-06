@@ -1,0 +1,18 @@
+.container-fluid{
+  margin: 3px;
+  width: 100vw;
+  height: 100vh;
+}
+.open {
+    background-color: rgb(231, 221, 231);
+    box-shadow: 16px 2px 6px 6px rgba(166, 160, 160, 0.20);
+  }
+  .third{
+    background-color: seashell;
+  }
+  .reply{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+
